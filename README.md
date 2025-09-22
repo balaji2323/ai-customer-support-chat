@@ -65,11 +65,7 @@ npm run build
 
 Copy or move the generated `build` folder into the backend directory.
 
-## Deployment
 
-- Backend serves the React static files from the copied `build` folder.
-- Deploy the backend folder (which includes React build) to services like Render, Railway, or Heroku.
-- Set environment variables for server configuration and API keys.
 
 ## Environment Variables
 
