@@ -1,0 +1,6 @@
+[build]
+builder = "RAILPACK"
+
+[deploy]
+startCommand = "cd backend && npm start"
+buildCommand = "cd backend && npm install"
